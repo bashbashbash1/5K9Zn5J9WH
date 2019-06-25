@@ -1,2 +1,0 @@
-username: 3557558
-#Dont forget to vim the python file!
