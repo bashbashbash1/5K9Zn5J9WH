@@ -1,4 +1,4 @@
-#You need to find the secret username and password in order to access these secret files
+#You need to find the secret username and password in order to access these secret files!
 
 print("You need to vim this file and edit the code in order for it to execute"
 username = input("username: ")
