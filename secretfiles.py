@@ -1,5 +1,8 @@
 #You need to find the secret username and password in order to access these secret
 
+from usernameandpassword1 import username1
+from usernameandpassword1 import password1
+
 print("You need to vim this file and edit the code in order for it to execute")
 username = input("username: ")
 password = input("password: ")
