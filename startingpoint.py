@@ -1,8 +1,9 @@
 import subprocess
-import sys, os
+import os
+import sys
 
-#dirname = os.path.dirname(welcome.txt)
-#filename = os.path.join(dirname, 'Desktop', 'CaptureTheFlag','welcome.txt')
+dirname = os.path.dirname(__file__)
+filename = os.path.join(dirname, 'Desktop', 'CaptureTheFlag','welcome.txt')
 
 
 
@@ -10,3 +11,7 @@ import sys, os
 #os.system(filename)
 
 os.system('"C:/Users/jlvel/Desktop/CaptureTheFlag/welcome.txt"')
+
+
+sys.exit()
+raise SystemExit
