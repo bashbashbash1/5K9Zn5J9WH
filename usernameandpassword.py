@@ -1,10 +1,2 @@
-#In order for you to Vim-Decrypt this file, do the following:
-#1 Hit ESC
-#2 Press ":" and on the left bottom of your screen, type X (caps on) and hit enter
-#3 You will be asked for a new encryption key, simply hit enter twice
-#4 Save your changes by pressing ":" agauin and writing "wq" in the bottom left of the screen
-
-
-#Username & Password
-username1 = '123456'
-password1 = '123456'
+VimCrypt~03!‘³\r QêÃi35—›3®¹ä{¢Òv(hxÀ¤uYÉ^ãæž´å&{ÎIóçµâ©QýS¾¦MYÙS+Ñð|$RéS,¶Íß¹ah;ÎtONÀª’ú:I¶À%§ý´˜ˆ"ÞU’xr?(“£mÝBQ	XèF*›²¨|ö^Å­Ù:0>Ë:ó ·¿GôÃÝuÄÊµ$¹FN.ÜÛÇ
+M¾‹ ƒ×ü.VŒ{wÚë’Ø_·H³Z£´DÄ²’îH—” 6VãzzöÖNDZPÚ×ªíRê=ªf\Q6)ÂÝ“$ŠÝ×=…ÜÆCŠlë¬aVÊ&Ê¶	di~Œ¢>,<?§_Y¾Öõstý×`Æp*óê¤\¼¡5<´ö¡6¤C¹ÿn¢v¤oÆžØÔØÉÆì ´ïB8c…ô¶ËÆvä®Ó®4ÚÀa¤ ,¹ß"Sê ž(¼uJûÐ¹Ž7G°åþäeÅìò Ò~Ç;©´4ÃN†.›ý%fµ1Vµø,—
